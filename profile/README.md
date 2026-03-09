@@ -47,7 +47,6 @@ No complicated setup. Just grab a link and paste it.
 
 </div>
 <!-- PROJECTS_END -->
----
 
 ## ✨ Features at a Glance
 
