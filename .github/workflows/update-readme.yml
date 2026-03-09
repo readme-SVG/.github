@@ -2,7 +2,7 @@ name: Update README Projects
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 5 * * 5'
   workflow_dispatch:
   repository_dispatch:
     types: [repo-created, repo-updated]
