@@ -33,15 +33,16 @@ No complicated setup. Just grab a link and paste it.
 
 ## 📦 Projects
 
+<!-- PROJECTS_START -->
 <div align="center">
 
-| Project | Description | Stars | Language |
-|:-------:|:-----------:|:-----:|:--------:|
-| [**readme-SVG-typing-generator**](https://github.com/readme-SVG/readme-SVG-typing-generator) | ⌨️ Dynamically generated animated typing SVGs for GitHub READMEs | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-typing-generator?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-typing-generator/stargazers) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [**readme-SVG-youtube-preview**](https://github.com/readme-SVG/readme-SVG-youtube-preview) | 🎬 SVG badge generator for YouTube videos — embed clickable video cards in any README | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-youtube-preview?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-youtube-preview/stargazers) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| Project | Stars | Language |
+|:-------:|:-----:|:--------:|
+| [**readme-SVG-typing-generator**](https://github.com/readme-SVG/readme-SVG-typing-generator) | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-typing-generator?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-typing-generator/stargazers) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square) |
+| [**readme-SVG-youtube-preview**](https://github.com/readme-SVG/readme-SVG-youtube-preview) | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-youtube-preview?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-youtube-preview/stargazers) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square) |
 
 </div>
-
+<!-- PROJECTS_END -->
 ---
 
 ## ✨ Features at a Glance
