@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=readme-SVG&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Beautiful%20tools%20for%20your%20GitHub%20README&descAlignY=55&descSize=18" width="100%"/>
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=200&amplitude=40&frequency=2&layers=3&color_top=d93d37&color_bottom=0d1117&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=6&text=readme-SVG&text_bottom=Beautiful+tools+for+your+GitHub+README&text_color=ffffff&text_bottom_color=ff7070&text_size=102&text_bottom_size=31&text_style=bold&text_stroke_color=0d1117&text_stroke_width=10&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=50&text_align=middle)
 
-<!-- Badges row 1 -->
 [![GitHub Org](https://img.shields.io/badge/GitHub-readme--SVG-181717?style=for-the-badge&logo=github)](https://github.com/readme-SVG)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/Apache-2.0)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge)](https://github.com/OstinUA)
 
-<!-- Badges row 2 -->
 ![SVG](https://img.shields.io/badge/SVG-powered-FFB13B?style=flat-square&logo=svg&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-💚-brightgreen?style=flat-square)
@@ -117,7 +114,7 @@ Contributions, issues, and feature requests are welcome!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=70&amplitude=20&frequency=2&layers=3&color_top=000000&color_bottom=d93d37&opacity=1&flip=false&gradient=false&mirror=true&animate=true&speed=6&text=&text_bottom=&text_color=ffffff&text_bottom_color=ff7070&text_size=102&text_bottom_size=31&text_style=bold&text_stroke_color=0d1117&text_stroke_width=10&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=50&text_align=middle)
 
 **Made with ❤️ by [OstinUA](https://github.com/OstinUA)**
 
