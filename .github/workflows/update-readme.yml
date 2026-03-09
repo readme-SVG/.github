@@ -50,7 +50,7 @@ jobs:
                   break
               for r in batch:
                   name_lower = r["name"].lower()
-                  if not r["archived"] and not r["fork"] and name_lower not in SKIP:
+                  if not r["archived"] and not r["fork"] and not r["private"] and name_lower not in SKIP:
                       repos.append(r)
               page += 1
 
