@@ -44,6 +44,7 @@ No complicated setup. Just grab a link and paste it.
 | [**repo-promotion-guide**](https://github.com/readme-SVG/repo-promotion-guide) | [![Stars](https://img.shields.io/github/stars/readme-SVG/repo-promotion-guide?style=flat-square&color=yellow)](https://github.com/readme-SVG/repo-promotion-guide/stargazers) |  |
 | [**readme-SVG-wave-divider-generator**](https://github.com/readme-SVG/readme-SVG-wave-divider-generator) | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-wave-divider-generator?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-wave-divider-generator/stargazers) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) |
 | [**readme-SVG-custom-badge-generator**](https://github.com/readme-SVG/readme-SVG-custom-badge-generator) | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-custom-badge-generator?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-custom-badge-generator/stargazers) | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square) |
+| [**readme-SVG-profile-bento**](https://github.com/readme-SVG/readme-SVG-profile-bento) | [![Stars](https://img.shields.io/github/stars/readme-SVG/readme-SVG-profile-bento?style=flat-square&color=yellow)](https://github.com/readme-SVG/readme-SVG-profile-bento/stargazers) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square) |
 
 </div>
 <!-- PROJECTS_END -->
